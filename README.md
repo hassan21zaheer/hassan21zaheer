@@ -1,4 +1,4 @@
-🚀 Flutter Dev | 🎨 UI/UX Designer | 🌐 Webflow Lover
+🚀 Full Stack Flutter Developer | 🎨 UI/UX Designer | 🌐 Webflow Developer
 
 Hey, I'm Hassan Zaheer – Flutter developer, design fanatic, and Webflow developer. Crafting apps that marry elegance and function is my jam. I sculpt interfaces that tell stories, and I use Webflow's magic to create standout websites.
 
